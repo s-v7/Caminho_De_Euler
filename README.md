@@ -1,10 +1,10 @@
-> # Caminho_De_Euler
+> # EulerPath
 >
-> ### Algoritmo => CaminhoDeEuler 
+> ### Algorithm => EulerPath
 >
-> - **CaminhoDeEuler (Matriz A[n x n])**
+> - **EulerPath (Matriz A[n x n])**
 >>
->> - Determina se existe um caminho de Euler em um Grafo conexo sem laços e com Matriz de Adjacência A!
+>> - Determines whether there is an Euler path in a connected Graph without ties and with an Adjacency Matrix!
 >
 
 
